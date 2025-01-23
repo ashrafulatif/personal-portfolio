@@ -91,5 +91,10 @@
     "Tailwind CSS",
     "API",
     "React"
-  ]
+  ],
+  "about": {
+    "title": "Ashraful Haque",
+    "description": "I am a passionate software Engineer skilled in building efficient, scalable solutions, designing full-stack web applications, and delivering exceptional results. Let's collaborate to create innovative and impactful projects together!",
+    "profileImg": "./profile.jpeg"
+  }
 }
