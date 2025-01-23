@@ -1,0 +1,19 @@
+{
+  "skills": [
+    { "name": "HTML", "src": "/Icon/HTML.png" },
+    { "name": "CSS", "src": "/Icon/CSS.png" },
+    { "name": "JavaScript", "src": "/Icon/JavaScript.png" },
+    { "name": "React", "src": "/Icon/React JS.png" },
+    { "name": "Node.js", "src": "/Icon/Node JS.png" },
+    { "name": "Tailwind CSS", "src": "/Icon/Tailwind.png" },
+    { "name": "Bootstrap", "src": "/Icon/Bootstrap.png" },
+    { "name": "Git", "src": "/Icon/Git.png" },
+    { "name": "Github", "src": "/Icon/Github.png" },
+    { "name": "Java", "src": "/Icon/Java.png" },
+    { "name": "MySQL.js", "src": "/Icon/MySQL.png" },
+    { "name": "PostgresSQL", "src": "/Icon/PostgresSQL.png" },
+    { "name": "Postman", "src": "/Icon/Postman.png" },
+    { "name": "TypeScript.js", "src": "/Icon/TypeScript.png" },
+    { "name": "C++", "src": "/Icon/C++.png" }
+  ]
+}

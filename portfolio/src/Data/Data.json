@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "All-in-One Business Solution",
+      "img": "./img/all-in-one-business-solution.png",
+      "link": "https://github.com/ashrafulatif/all-in-one-business-solution",
+      "description": "The aim of this web application is to deliver a complete ERP solution to businesses of all sizes, allowing them to simplify activity, improve efficiency, and increase productivity.",
+      "skills": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "Node.js",
+        "API",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Collaborative Task Management System",
+      "img": "./img/collaborative-task-management-system.png",
+      "link": "https://github.com/ashrafulatif/CollaborativeTaskManagementSystem-",
+      "description": "This web-based Collaborative Task Management System streamlines project management and enhances teamwork. With roles for Admin, Developer, Client, and Manager, it enables efficient collaboration and task handling. Built with PHP and JavaScript.",
+      "skills": ["JavaScript", "HTML5", "PHP", "CSS", "MySQL"]
+    },
+    {
+      "id": "3",
+      "title": "Dealora (E-Commerce Platform)",
+      "img": "./img/dealora.png",
+      "link": "https://github.com/ashrafulatif/dealora",
+      "description": "The aim of this project is to build a scalable and secure B2C marketplace using ASP.NET, enabling businesses to list products and consumers to easily browse, purchase, and track orders with integrated payment solutions.",
+      "skills": [
+        "ASP.NET",
+        "REST APIs",
+        "MSSQL",
+        "ASP.NET MVC",
+        "Bootstrap",
+        "Entity Framework"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "TicketReservationSystem (Easytrip)",
+      "img": "./img/dealora.png",
+      "link": "https://github.com/ashrafulatif/TicketReservationSystem_Easytrip",
+      "description": "Windows form based windows application written in C# where an user can reserve air ticket, bus ticket simultaneously.",
+      "skills": ["C#", "MSSQL", "OOP", "Windows Form"]
+    },
+    {
+      "id": "5",
+      "title": "Airline Reservation System",
+      "img": "./img/dealora.png",
+      "link": "https://github.com/ashrafulatif/AirlineReservationSystem",
+      "description": "This is a simple console-based java project Where an user can reserve air ticket.",
+      "skills": ["Java", "OOP"]
+    },
+    {
+      "id": "6",
+      "title": "Blog Application",
+      "img": "./img/dealora.png",
+      "link": "https://github.com/ashrafulatif/BlogApplication",
+      "description": "This blog application allows users to create, update, and upload blogs, while administrators can manage blogs and bloggers. Built with NestJS for the backend, Next.js for the frontend, PostgreSQL as the database, and JWT for secure authentication, the application ensures all new users are assigned the blogger role by default, with admin roles being restricted.",
+      "skills": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "API",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/ashrafulhaque565/",
+    "linkedin": "https://www.linkedin.com/in/ashrafulhaque08",
+    "github": "https://github.com/ashrafulatif",
+    "email": "ashrafulhaque08@mail.com"
+  },
+  "skills": [
+    "Next.js",
+    "NestJS",
+    "PostgreSQL",
+    "Node.js",
+    "ASP.NET",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Bootstrap",
+    "Tailwind CSS",
+    "API",
+    "React"
+  ]
+}
