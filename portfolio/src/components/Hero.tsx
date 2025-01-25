@@ -5,7 +5,7 @@ const Hero = () => {
   //handle download
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "./Ashraful_Haque_CV.pdf";
+    link.href = "./CV_Ashraful Haque.pdf";
     link.download = "Ashraful_Haque_CV.pdf";
     link.click();
   };
